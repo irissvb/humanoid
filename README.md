@@ -15,6 +15,15 @@ The project recreates an existing physical humanoid robot as a 3D CAD model.
   </tr>
 </table>
 
+## Project overview
+
+This was a group project based on an existing physical humanoid robot.
+The [project overview PDF](docs/humanoid-robot-overview.pdf) shows the final
+result and the main design details without requiring Solid Edge.
+
+Personal information about other group members has been anonymized in the
+published documentation.
+
 ## Highlights
 
 - Full robot assembly and subassemblies
